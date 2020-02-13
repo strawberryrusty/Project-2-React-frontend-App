@@ -4,6 +4,8 @@ React Hackathon - 24 hours
 
 ## Project 2 General Assembly - React frontend 'Reacathon'
 
+Launch on [GitHub Pages](https://strawberryrusty.github.io/Project-2-React-frontend-App/#/).
+
 We created a frontend webapp which consumes the rest api of a podcast search service called Listen notes - https://www.listennotes.com/api/
 
 It has a search, get random podcast and a list of popular podcasts which the user can listen to online directly from within our app.
